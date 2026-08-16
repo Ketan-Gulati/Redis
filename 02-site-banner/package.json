@@ -1,0 +1,13 @@
+{
+  "name": "01-local-redis-lab",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.2",
+    "ioredis": "^5.11.1"
+  }
+}
